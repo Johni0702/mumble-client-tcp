@@ -1,6 +1,6 @@
 {
   "name": "mumble-client-tcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mumble protocol client library - tcp transport protocol",
   "main": "index.js",
   "scripts": {
